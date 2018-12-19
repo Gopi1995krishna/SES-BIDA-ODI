@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OdiGitTagInfo>
+   <ParamMap>
+      <param value="/Work Repository/Models/DB_HR/Global/SMOD_Global.xml"/>
+      <param value="/Work Repository/Models/FlatFilesHR/FF_HR/MOD_FF_HR.xml"/>
+      <param value="/Work Repository/Models/DB_HR/MOD_DB_HR.xml"/>
+      <param value="/Master Repository/Contexts/CONT_Global.xml"/>
+      <param value="/Master Repository/Technologies/Oracle/Logical Architecture/LSC_DB_HR.xml"/>
+      <param value="/Work Repository/Models/DB_HR/Global/TAB_CONTINENTS.xml"/>
+      <param value="/Work Repository/Models/FlatFilesHR/FF_HR/Global/TAB_continents.xml"/>
+      <param value="/Master Repository/Languages/LANG_SQL_FILE.xml"/>
+      <param value="/Master Repository/Technologies/File/TECH_File.xml"/>
+      <param value="/Master Repository/Languages/LANG_PIGLATIN.xml"/>
+      <param value="/Work Repository/Models/FlatFilesHR/FF_HR/Global/SMOD_Global.xml"/>
+      <param value="/Master Repository/Technologies/File/Logical Architecture/LSC_MyFlatFiles.xml"/>
+      <param value="/Work Repository/Models/FlatFilesHR/MFOL_FlatFilesHR.xml"/>
+      <param value="/Master Repository/Languages/LANG_SQL.xml"/>
+      <param value="/Work Repository/Projects/Exp_FF_RT/First_Folder/Mappings/MAP_Map_FF_RT_CON.xml"/>
+      <param value="/Work Repository/Projects/Exp_FF_RT/Test/FOLD_Test.xml"/>
+      <param value="/Work Repository/Projects/Exp_FF_RT/Test/Gopi/FOLD_Gopi.xml"/>
+      <param value="/Work Repository/Projects/Exp_FF_RT/Knowledge Modules/Integration(IKM)/KM_IKM_SQL_Incremental_Update.xml"/>
+      <param value="/Work Repository/Projects/Exp_FF_RT/Markers/GRP_STATE_Priorities.xml"/>
+      <param value="/Work Repository/Projects/Exp_FF_RT/Knowledge Modules/Loading(LKM)/KM_LKM_File_to_SQL.xml"/>
+      <param value="/Work Repository/Projects/Exp_FF_RT/Markers/GRP_STATE_Progress.xml"/>
+      <param value="/Master Repository/Technologies/Oracle/TECH_Oracle.xml"/>
+      <param value="/Work Repository/Projects/Exp_FF_RT/Markers/GRP_STATE_Smileys.xml"/>
+      <param value="/Work Repository/Projects/Exp_FF_RT/First_Folder/FOLD_First_Folder.xml"/>
+      <param value="/Work Repository/Projects/Exp_FF_RT/PROJ_Exp_FF_RT.xml"/>
+      <param value="/Master Repository/Contexts/CONT_DEV_MDM.xml"/>
+   </ParamMap>
+</OdiGitTagInfo>
